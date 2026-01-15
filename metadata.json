@@ -1,0 +1,7 @@
+{
+  "name": "FABUSSE – Fashion AI Studio",
+  "description": "A professional fashion AI workflow for generating high-end editorial prompts for Midjourney, Stable Diffusion, and other AI engines.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
